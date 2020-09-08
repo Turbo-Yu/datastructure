@@ -180,7 +180,7 @@ bool RemoveSpan(LNode& L, ElementType s, ElementType t)
 void DistinctSeq(LNode& L)
 {
 	int k = 0, s = 0;
-	for (size_t i = 0; i < L.Length; i++)
+	for (int i = 0; i < L.Length; i++)
 	{
 		if (L.Data[i] == L.Data[i + 1])
 		{
