@@ -1,8 +1,6 @@
 
 .vs/
 Debug/
-debug/
+DataStructure/Debug/
 *.user
-*.log
-*.tlog
-*.obj
+*.user
