@@ -51,6 +51,9 @@
     <ClCompile Include="Lesson5_1_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson6_1_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -87,6 +90,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Lesson5_1_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lesson6_1_1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
